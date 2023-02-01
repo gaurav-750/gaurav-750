@@ -1,7 +1,7 @@
 ### Hey you👋, Welcome to my github
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com
+🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Django, DRF<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com
 
 
 ## 🌐 Socials:
