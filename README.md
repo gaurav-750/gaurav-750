@@ -17,9 +17,9 @@
 <img src="https://media.giphy.com/media/gcZxPiUFzoHgA/giphy.gif" width="512px"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaurav-750&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=gaurav-750&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gaurav-750&theme=dark)](https://git.io/streak-stats) <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-750&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurav-750&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
