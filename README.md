@@ -1,7 +1,7 @@
 ### Hey you👋, Welcome to my github
 
 # 💫 About Me:
-📝 Blog: https://gaurav750.hashnode.dev <br> 🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Typescript & Docker.<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com
+PORTFOLIO: https://gaurav-somani.vercel.app/ <br>   📝 Blog: https://gaurav750.hashnode.dev <br> 🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Typescript & Docker.<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com
 
 
 ## 🌐 Socials:
