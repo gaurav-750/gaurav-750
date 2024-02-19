@@ -1,7 +1,17 @@
 ### Hey you👋, Welcome to my github
 
-# 💫 About Me:
-PORTFOLIO: https://gaurav-somani.vercel.app/ <br>   📝 Blog: https://gaurav750.hashnode.dev <br> 🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Typescript & Docker.<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com
+<!-- # 💫 About Me: -->
+<!-- PORTFOLIO: https://gaurav-somani.vercel.app/ <br>   📝 Blog: https://gaurav750.hashnode.dev <br> 🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Typescript & Docker.<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com -->
+<p align="center">
+  <a href="https://github.com/yash797">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=28&pause=800000&color=70A4FC&width=440&height=45&lines=Gaurav+Somani" alt="Yash Pande" title="Hi there"/></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/yash797">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Software+Developer;DevOps+Enthusiast;Let's+Collab" /></a>
+</p>
+
 
 
 ## 🌐 Socials:
