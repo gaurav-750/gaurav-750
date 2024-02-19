@@ -4,12 +4,12 @@
 <!-- PORTFOLIO: https://gaurav-somani.vercel.app/ <br>   📝 Blog: https://gaurav750.hashnode.dev <br> 🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning Typescript & Docker.<br>👯 I’m looking to collaborate on various web development projects<br>💬 Ask me about Web Dev queries and Dsa<br>📬Reach me at gauravsomani52750@gmail.com -->
 <p align="center">
   <a href="https://github.com/gaurav-750">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=28&pause=800000&color=70A4FC&width=440&height=45&lines=Gaurav+Somani" alt="Gaurav Somani" title="Hello"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F4F7D0&background=FF000000&center=true&random=false&width=435&lines=Gaurav+Somani" alt="Gaurav Somani" title="Hello"/></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/gaurav-750">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Software+Developer;DevOps+Enthusiast;Let's+Collab" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36F7A8&background=FF000000&center=true&random=false&width=435&lines=Software+Developer;Devops+Enthusiast" /></a>
 </p>
 
 <!-- <p align = "center">
